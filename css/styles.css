@@ -1,0 +1,27 @@
+.image1,.image2,.image3, .image4, .image5{
+  display: none;
+}
+.center{
+  text-align: center;
+  font-size: 50px;
+}
+
+h1{
+  text-align: center;
+}
+
+#formOne{
+  background-image: url('https://www.tvinsider.com/wp-content/uploads/2020/12/the-office-key-art-nbc-peacock-1420x798.jpg');
+  opacity: 0.75;
+  font-weight: 900;
+  font-size: 22px;
+  color: rgb(8, 8, 8);
+}
+
+.btn{
+  background-color: brown;
+}
+
+
+
+
